@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Categories": [
+    { "uniqueID": 1, "title": "Post 1","isSynced":false,"lastUpdated":"dasda","subCategory":"dasdas" },
+    { "uniqueID": 2, "title": "Post 2","isSynced":false,"lastUpdated":"dasddas","subCategory":"dasdas" },
+    { "uniqueID": 3, "title": "Post 3","isSynced":false,"lastUpdated":"czxcz","subCategory":"dasdas" },
+    { "uniqueID": 4, "title": "Post 4","isSynced":false,"lastUpdated":"qweqw","subCategory":"dasdas" },
+  ]
 }
