@@ -5,4 +5,7 @@
     { "uniqueID": 3, "title": "Post 3","isSynced":false,"lastUpdated":"czxcz","subCategory":"dasdas" },
     { "uniqueID": 4, "title": "Post 4","isSynced":false,"lastUpdated":"qweqw","subCategory":"dasdas" },
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
